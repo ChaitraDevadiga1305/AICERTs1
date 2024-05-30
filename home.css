@@ -1,0 +1,78 @@
+body{
+    background-image: url("../img/AILandingPage.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img{
+    padding-left: 75px;
+    padding-top: 45px;
+    padding-right: 55px;
+}
+
+.navbar{
+    color: white;
+    padding-left: 70px;
+    font-family: 'Open Sans';
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.active{
+    color: #CFA935;
+}
+
+.navbar:hover {
+    color:#CFA935;
+}
+
+.EventTitle{
+    padding-left: 75px;
+    padding-top: 140px;
+    text-align: left;
+}
+
+.title{
+    color: white;
+    font-size: 50px;
+    font-family: 'Open Sans';
+}
+
+.register,button{
+    background-color: #CFA935;
+    background-image: linear-gradient(to right,#CFA935 , #69561B);
+    width: 240px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Open Sans';
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+   
+}
+
+.register,button:hover{
+    color: black;
+    border-width: 4px;
+    border-color: white; 
+    text-decoration: none;
+}
+
+.event{
+    color: white;
+    text-decoration: none;
+}
+
+.event:hover{
+    color: black;
+    border-width: 4px;
+    border-color: white; 
+    text-decoration: none;
+
+}
+
+
+
+

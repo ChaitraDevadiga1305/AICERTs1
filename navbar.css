@@ -1,0 +1,88 @@
+img{
+    padding-left: 75px;
+    padding-top: 45px;
+    padding-right: 55px;
+}
+
+.navbar{
+    color: black;
+    padding-left: 70px;
+    font-family: 'Open Sans';
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.active{
+    color: #CFA935;
+}
+
+.navbar:hover {
+    color:#CFA935;
+}
+
+.EventTitle{
+    padding-left: 75px;
+    padding-top: 140px;
+    text-align: left;
+}
+
+.container{
+    border: 3px;
+    border-style: solid;
+    border-radius: 5px;
+    background-color: #CFA935;
+    height: 31rem;
+    width: 85rem;
+    color: #CFA935;
+    margin-left: 75px;
+    margin-top: 70px;
+    text-align: center;
+    font-family: 'Open Sans';
+    box-shadow: 10px 10px 5px rgb(170, 168, 168);
+    background-image: linear-gradient(to right,#eace7c , #9e7d19);
+    transition: width 2s, height 3s;
+}
+
+.title{
+    color:black;
+    padding-top: 30px;
+    padding-right: 20px;
+    font-size: 48px;
+    font-weight:bolder;
+}
+
+.date{
+    color: black;
+    font-size: 20px;
+}
+
+#countdown{
+    color: green;
+    font-size: 50px;
+    padding-top: 40px;
+    font-weight: bold;
+}
+
+.CallToAction{
+    display: flex;
+    padding-top: 70px;
+    margin-left: 32rem;
+
+}
+
+button{
+    width: 165px;
+    height: 45px;
+    margin-right: 25px;
+    border-radius: 5px;
+    background-color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+button:hover{
+    background-color: green;
+    color:white
+    
+}
